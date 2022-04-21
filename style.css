@@ -1,0 +1,39 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+
+p
+{
+    color: red;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+.object_name
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px aqua;
+    background-color: chartreuse;
+}
+
+.start_button
+{
+    background-color: greenyellow;
+    color: red;
+}
